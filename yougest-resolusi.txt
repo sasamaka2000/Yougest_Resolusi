@@ -1,0 +1,5 @@
+Web resulusi
+-Navbar
+-Header
+-Content
+-Footer
