@@ -3,3 +3,4 @@ Web resulusi
 -Header
 -Content
 -Footer
+(Paralax,Animate)
