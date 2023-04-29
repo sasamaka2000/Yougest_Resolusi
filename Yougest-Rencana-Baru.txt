@@ -1,3 +1,4 @@
 Rencana baru
 -Halaman about
-*Galery
+*saran
+-Halaman Contack
