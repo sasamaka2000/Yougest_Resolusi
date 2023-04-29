@@ -2,3 +2,4 @@ Rencana baru
 -Halaman about
 *Galery
 *Sejarah
+-Halaman contack
