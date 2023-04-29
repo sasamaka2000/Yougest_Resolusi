@@ -1,4 +1,6 @@
 Rencana baru
 -Halaman about
 *saran
--Halaman Contack
+*Galery
+*Sejarah
+-Halaman contack
